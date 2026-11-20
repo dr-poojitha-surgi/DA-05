@@ -1,0 +1,6 @@
+project_id,title,course,team_or_solo,my_role,tools,result
+P1,Small office network build,ITN 110 Networking Fundamentals,Team of 3,Configured the switch and VLANs; teammates handled the router and documentation,"Cisco Packet Tracer, VLANs, DHCP",Working simulated network for a 15-person office; grade A
+P2,Help desk ticket analysis,ITSP 135 IT Support,Solo,Sorted 200 sample tickets by category and wrote a summary of the top 3 issues,"Excel, pivot tables",Recommended 2 new FAQ articles
+P3,Home lab file server,Personal,Solo,Set up an old PC as a file server for family photos,"Ubuntu Server, Samba",Running since March 2026
+P4,Windows imaging lab,ITSP 136 Operating Systems,Team of 2,Wrote the step-by-step guide; partner ran most of the deployments,"Windows 11, deployment tools",Imaged 10 lab machines
+P5,Password reset chatbot mock-up,INFM 109 Informatics Fundamentals,Team of 4,Wrote the conversation flow; did not build the code,Flowchart tool,Class demo

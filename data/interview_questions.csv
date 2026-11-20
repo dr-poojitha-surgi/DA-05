@@ -1,0 +1,19 @@
+question_id,question,category,skill_tag,strong_answer_includes
+IQ01,Tell me about yourself.,General,All,"Program, one or two relevant projects, and the kind of role you want"
+IQ02,Describe a time you helped a frustrated customer.,Behavioral,Customer service,"The situation, what you did to calm and help the customer, and the result"
+IQ03,A user says their computer is slow. Walk me through how you would troubleshoot it.,Technical,Windows troubleshooting,"Ask questions first, check common causes in order (startup apps, updates, disk, malware), explain the fix"
+IQ04,How would you explain a password reset to someone who is not comfortable with technology?,Behavioral,Customer service,"Plain words, short steps, patience, and checking that the person understood"
+IQ05,What is the difference between a switch and a router?,Technical,Networking basics,A switch connects devices on one network; a router connects different networks
+IQ06,What is a VLAN and why would you use one?,Technical,Networking basics,"A VLAN splits one physical network into separate logical networks, for security or organization"
+IQ07,How does DHCP work?,Technical,Networking basics,A device asks for an address and the DHCP server assigns an IP address and settings automatically
+IQ08,Tell me about a team project. What was your part?,Behavioral,Teamwork,"Your specific part, how the team worked together, and the result. Do not take credit for others' work"
+IQ09,How do you keep track of many tickets or tasks at once?,Behavioral,Organization,"A system such as a ticket queue or list, how you prioritize, and how you follow up"
+IQ10,How would you image and set up a new laptop for an employee?,Technical,Windows deployment,"Image or set up the OS, install apps, join to accounts, test, and hand off to the user"
+IQ11,"What Linux commands do you know, and what do they do?",Technical,Linux,A few commands you have actually used and what each one does
+IQ12,How would you back up important files on a server?,Technical,Systems administration,"What to back up, how often, where copies are stored, and testing that restores work"
+IQ13,Tell me about a time you learned a new tool quickly.,Behavioral,Learning,"The tool, how you learned it, and what you did with it"
+IQ14,How would you support a teacher whose classroom display stopped working right before class?,Scenario,Customer service,"Stay calm, check the simple things first (power, cables, input), and offer a quick backup plan"
+IQ15,A warehouse loses Wi-Fi in one area. What would you check first?,Scenario,Networking basics,"Check whether other areas are affected, the access point's power and lights, and recent changes"
+IQ16,How have you used Excel to analyze data?,Technical,Excel,"A real example such as sorting, formulas, or pivot tables, and what the analysis showed"
+IQ17,Why do you want to work in IT support?,General,All,"Genuine interest, helping people, and a skill or experience that shows it"
+IQ18,What does good documentation look like to you?,Behavioral,Documentation,"Clear steps someone else could follow, screenshots where helpful, and keeping it up to date"
